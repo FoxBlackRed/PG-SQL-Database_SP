@@ -26,31 +26,3 @@ C:\Users\wycct\source\repos\SharpDesktopTraning\obj\Debug\SharpDesktopTraning.Da
 C:\Users\wycct\source\repos\SharpDesktopTraning\bin\Debug\DataBases\MainDataBase.mdf
 C:\Users\wycct\source\repos\SharpDesktopTraning\bin\Debug\DataBases\MainDataBase_log.ldf
 C:\Users\wycct\source\repos\SharpDesktopTraning\obj\Debug\SharpDesktopTraning.csproj.CopyComplete
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\DataBases\MainDataBase.mdf
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\DataBases\MainDataBase_log.ldf
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\SharpDesktopTraning.exe.config
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\SharpDesktopTraning.exe
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\SharpDesktopTraning.pdb
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\MySql.Data.dll
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\Google.Protobuf.dll
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\ZstdNet.dll
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\K4os.Compression.LZ4.Streams.dll
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\BouncyCastle.Crypto.dll
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\Ubiety.Dns.Core.dll
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\System.Memory.dll
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\System.Buffers.dll
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\K4os.Compression.LZ4.dll
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\K4os.Hash.xxHash.dll
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\wycct\source\repos\PG-SQL Database_SP\bin\Debug\MySql.Data.xml
-C:\Users\wycct\source\repos\PG-SQL Database_SP\obj\Debug\SharpDesktopTraning.csproj.AssemblyReference.cache
-C:\Users\wycct\source\repos\PG-SQL Database_SP\obj\Debug\SharpDesktopTraning.exe.config
-C:\Users\wycct\source\repos\PG-SQL Database_SP\obj\Debug\SharpDesktopTraning.DatabaseObserver.resources
-C:\Users\wycct\source\repos\PG-SQL Database_SP\obj\Debug\SharpDesktopTraning.LoginForm.resources
-C:\Users\wycct\source\repos\PG-SQL Database_SP\obj\Debug\SharpDesktopTraning.Properties.Resources.resources
-C:\Users\wycct\source\repos\PG-SQL Database_SP\obj\Debug\SharpDesktopTraning.RegisterForm.resources
-C:\Users\wycct\source\repos\PG-SQL Database_SP\obj\Debug\SharpDesktopTraning.csproj.GenerateResource.cache
-C:\Users\wycct\source\repos\PG-SQL Database_SP\obj\Debug\SharpDesktopTraning.csproj.CoreCompileInputs.cache
-C:\Users\wycct\source\repos\PG-SQL Database_SP\obj\Debug\SharpDesktopTraning.csproj.CopyComplete
-C:\Users\wycct\source\repos\PG-SQL Database_SP\obj\Debug\SharpDesktopTraning.exe
-C:\Users\wycct\source\repos\PG-SQL Database_SP\obj\Debug\SharpDesktopTraning.pdb

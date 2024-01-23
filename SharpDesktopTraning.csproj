@@ -66,7 +66,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clients.cs" />
+    <Compile Include="DataClasses\Clients.cs" />
     <Compile Include="Data.cs" />
     <Compile Include="DatabaseObserver.cs">
       <SubType>Form</SubType>
@@ -80,7 +80,7 @@
     <Compile Include="LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Product.cs" />
+    <Compile Include="DataClasses\Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegisterForm.cs">
@@ -89,9 +89,9 @@
     <Compile Include="RegisterForm.Designer.cs">
       <DependentUpon>RegisterForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Saller.cs" />
-    <Compile Include="Supplie.cs" />
-    <Compile Include="Users.cs" />
+    <Compile Include="DataClasses\Saller.cs" />
+    <Compile Include="DataClasses\Supplie.cs" />
+    <Compile Include="DataClasses\Users.cs" />
     <EmbeddedResource Include="DatabaseObserver.resx">
       <DependentUpon>DatabaseObserver.cs</DependentUpon>
     </EmbeddedResource>
